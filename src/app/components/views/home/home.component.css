@@ -1,12 +1,11 @@
-.subtitle .subt h2{
-  color: #f4f4f4 !important;
+.bemVindo h2 {
+  font-size: 2em;
+  color: #00000042;
 }
-
 h2 {
   font-size: 2em;
   color: royalblue;
 }
-
 section {
   border-bottom: 1px solid #e0e0e0;
   padding: 20px;
